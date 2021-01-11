@@ -1,0 +1,32 @@
+h1{
+    color:#ffffff;
+}
+*{
+    border:solid;
+}*
+.header{
+    background-color:#ff55ff;
+    display:flex;
+    justify-content:space-between
+}
+.grid{
+    background-color:#33ffff;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly
+}
+.footer{
+    background-color:#ff99ff;
+    display:flex;
+    justify-content:flex-end
+}
+
+p,h2{
+    background-color:#000000;
+    text-align:center;
+    color:#20ffff;
+}
+
+body{
+    border-color:#65ffff;
+}
